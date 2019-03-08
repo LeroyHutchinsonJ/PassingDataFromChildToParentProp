@@ -1,2 +1,0 @@
-# PassingDataFromChildToParentProp
-Created with CodeSandbox
