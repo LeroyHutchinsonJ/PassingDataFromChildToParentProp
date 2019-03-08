@@ -14,7 +14,6 @@ function Parent() {
     </div>
   );
 }
-
 function Child({ onAction }) {
   return <button onClick={onAction}> Press Me to Pass Data </button>;
 }
